@@ -7,7 +7,7 @@ from nltk.stem import SnowballStemmer
 
 # 🌸 CONFIGURACIÓN DE PÁGINA
 st.set_page_config(
-    page_title="TF-IDF Femenino Brillante",
+    page_title="TF-IDF",
     page_icon="💖",
     layout="wide"
 )
