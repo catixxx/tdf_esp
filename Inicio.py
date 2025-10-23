@@ -193,5 +193,4 @@ if st.button("✨ Analizar con magia TF-IDF ✨", type="primary", use_container_
 
 # 🌙 Pie
 st.markdown("---")
-st.caption("✨ Aplicación creada con amor, brillo y ciencia de datos 💜")
 
