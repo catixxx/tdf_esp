@@ -107,7 +107,7 @@ footer, .stCaptionContainer {
 st.markdown(page_style, unsafe_allow_html=True)
 
 # 🌸 TÍTULO
-st.title("💖 Analizador TF-IDF Brillante en Español")
+st.title("💖 Analizador TF-IDF en Español")
 
 # 🐾 Documentos de ejemplo
 default_docs = """El perro ladra fuerte en el parque.
